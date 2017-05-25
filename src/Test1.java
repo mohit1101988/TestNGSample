@@ -10,7 +10,7 @@ public class Test1 {
 
 	@Test
 	public void TestCaseNumber1(){
-		System.out.println("Executing Testcase 1 from TestClass1");
+		System.out.println("Executing Testcase 1 from TestClass1 ");
 	}
 	
 	@Test
