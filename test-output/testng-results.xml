@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Sample Suite" duration-ms="926" started-at="2017-05-25T16:32:31Z" finished-at="2017-05-25T16:32:32Z">
+    <groups>
+    </groups>
+    <test name="Test Cases from Class 1" duration-ms="84" started-at="2017-05-25T16:32:31Z" finished-at="2017-05-25T16:32:31Z">
+      <class name="Test1">
+        <test-method status="PASS" signature="BeforeEveryClass()[pri:0, instance:Test1@629f0666]" name="BeforeEveryClass" is-config="true" duration-ms="0" started-at="2017-05-25T22:02:31Z" finished-at="2017-05-25T22:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEveryClass -->
+        <test-method status="PASS" signature="BeforeEveryMethod()[pri:0, instance:Test1@629f0666]" name="BeforeEveryMethod" is-config="true" duration-ms="1" started-at="2017-05-25T22:02:31Z" finished-at="2017-05-25T22:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEveryMethod -->
+        <test-method status="PASS" signature="TestCaseNumber1()[pri:0, instance:Test1@629f0666]" name="TestCaseNumber1" duration-ms="31" started-at="2017-05-25T22:02:31Z" finished-at="2017-05-25T22:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseNumber1 -->
+        <test-method status="PASS" signature="AfterEveryMethod()[pri:0, instance:Test1@629f0666]" name="AfterEveryMethod" is-config="true" duration-ms="1" started-at="2017-05-25T22:02:31Z" finished-at="2017-05-25T22:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEveryMethod -->
+        <test-method status="PASS" signature="BeforeEveryMethod()[pri:0, instance:Test1@629f0666]" name="BeforeEveryMethod" is-config="true" duration-ms="1" started-at="2017-05-25T22:02:31Z" finished-at="2017-05-25T22:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEveryMethod -->
+        <test-method status="PASS" signature="TestCaseNumber2()[pri:0, instance:Test1@629f0666]" name="TestCaseNumber2" duration-ms="2" started-at="2017-05-25T22:02:31Z" finished-at="2017-05-25T22:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseNumber2 -->
+        <test-method status="PASS" signature="AfterEveryMethod()[pri:0, instance:Test1@629f0666]" name="AfterEveryMethod" is-config="true" duration-ms="0" started-at="2017-05-25T22:02:31Z" finished-at="2017-05-25T22:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEveryMethod -->
+        <test-method status="PASS" signature="AfterEveryClass()[pri:0, instance:Test1@629f0666]" name="AfterEveryClass" is-config="true" duration-ms="0" started-at="2017-05-25T22:02:31Z" finished-at="2017-05-25T22:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEveryClass -->
+      </class> <!-- Test1 -->
+    </test> <!-- Test Cases from Class 1 -->
+    <test name="Test Cases from Class 2" duration-ms="12" started-at="2017-05-25T16:32:32Z" finished-at="2017-05-25T16:32:32Z">
+      <class name="Test2">
+        <test-method status="PASS" signature="BeforeEveryClass()[pri:0, instance:Test2@3aa9e816]" name="BeforeEveryClass" is-config="true" duration-ms="1" started-at="2017-05-25T22:02:32Z" finished-at="2017-05-25T22:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEveryClass -->
+        <test-method status="PASS" signature="BeforeEveryMethod()[pri:0, instance:Test2@3aa9e816]" name="BeforeEveryMethod" is-config="true" duration-ms="0" started-at="2017-05-25T22:02:32Z" finished-at="2017-05-25T22:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEveryMethod -->
+        <test-method status="PASS" signature="TestCaseNumber1()[pri:0, instance:Test2@3aa9e816]" name="TestCaseNumber1" duration-ms="1" started-at="2017-05-25T22:02:32Z" finished-at="2017-05-25T22:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseNumber1 -->
+        <test-method status="PASS" signature="AfterEveryMethod()[pri:0, instance:Test2@3aa9e816]" name="AfterEveryMethod" is-config="true" duration-ms="0" started-at="2017-05-25T22:02:32Z" finished-at="2017-05-25T22:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEveryMethod -->
+        <test-method status="PASS" signature="BeforeEveryMethod()[pri:0, instance:Test2@3aa9e816]" name="BeforeEveryMethod" is-config="true" duration-ms="1" started-at="2017-05-25T22:02:32Z" finished-at="2017-05-25T22:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEveryMethod -->
+        <test-method status="PASS" signature="TestCaseNumber2()[pri:0, instance:Test2@3aa9e816]" name="TestCaseNumber2" duration-ms="2" started-at="2017-05-25T22:02:32Z" finished-at="2017-05-25T22:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseNumber2 -->
+        <test-method status="PASS" signature="AfterEveryMethod()[pri:0, instance:Test2@3aa9e816]" name="AfterEveryMethod" is-config="true" duration-ms="1" started-at="2017-05-25T22:02:32Z" finished-at="2017-05-25T22:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEveryMethod -->
+        <test-method status="PASS" signature="AfterEveryClass()[pri:0, instance:Test2@3aa9e816]" name="AfterEveryClass" is-config="true" duration-ms="0" started-at="2017-05-25T22:02:32Z" finished-at="2017-05-25T22:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEveryClass -->
+      </class> <!-- Test2 -->
+    </test> <!-- Test Cases from Class 2 -->
+    <test name="Testing Login using Parametrization" duration-ms="14" started-at="2017-05-25T16:32:32Z" finished-at="2017-05-25T16:32:32Z">
+      <class name="Test1">
+        <test-method status="PASS" signature="BeforeEveryExecution()[pri:0, instance:Test1@629f0666]" name="BeforeEveryExecution" is-config="true" duration-ms="9" started-at="2017-05-25T22:02:31Z" finished-at="2017-05-25T22:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeEveryExecution -->
+        <test-method status="PASS" signature="AfterEveryExecution()[pri:0, instance:Test1@629f0666]" name="AfterEveryExecution" is-config="true" duration-ms="0" started-at="2017-05-25T22:02:32Z" finished-at="2017-05-25T22:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEveryExecution -->
+      </class> <!-- Test1 -->
+      <class name="TestParametrization">
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.Integer)[pri:0, instance:TestParametrization@7907ec20]" name="TestLogin" duration-ms="3" started-at="2017-05-25T22:02:32Z" data-provider="getData" finished-at="2017-05-25T22:02:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@yahoomail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.Integer)[pri:0, instance:TestParametrization@7907ec20]" name="TestLogin" duration-ms="1" started-at="2017-05-25T22:02:32Z" data-provider="getData" finished-at="2017-05-25T22:02:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[27]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+      </class> <!-- TestParametrization -->
+    </test> <!-- Testing Login using Parametrization -->
+  </suite> <!-- TestNG Sample Suite -->
+</testng-results>

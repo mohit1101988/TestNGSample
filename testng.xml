@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Sample Suite">
+
+
+
+
+<test name="Test Cases from Class 1">
+    <classes>
+        <class name="Test1" ></class>  
+    </classes>
+</test>
+
+<test name="Test Cases from Class 2">
+    <classes>
+        <class name="Test2" ></class>  
+    </classes>
+</test>
+
+<test name="Testing Login using Parametrization">
+    <classes>
+        <class name="TestParametrization" ></class>  
+    </classes>
+</test>
+
+</suite>
